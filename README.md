@@ -3,8 +3,8 @@
 
 <!-- hi gif -->
 <h1 align="center">Hi, <img  width="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" /> I'm Roushan Gupta</h1>
+<h3>A passionate MERN Developer, Dedicated to Develop robust web-application for both front-end and backend. A good expertise in website architecture, for User Interface. And Problem-solving mindset with eager to learn by doing.</h3>
 
-<h3 align="center">A passionate Mern developer from India</h3> 
 
 <!-- coding sticker -->
 </br> 
@@ -69,20 +69,12 @@
 ===========================================================================-->
 
 <!-- github-readme-streak-stats -->
-<!--
-<p align="center">
-      <a href="https://github.com/roushan897/github-readme-streak-stats">
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="roushan897's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roy897&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-      </a>
-</p> <br/>
- -->
+
 <!--   -->
 <a href="https://github.com/roushan897/github-readme-stats">
     <img alt="roushan897's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roushan897&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a> <!-- 
-<a href="https://github.com/roushan897/github-readme-stats">
-  <img alt="roushan897's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy897&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a> <br/>   -->
+</a> 
+
 
 <!--  Connect with me  -->
 ## Connect with me:
