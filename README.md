@@ -54,15 +54,30 @@
 </a> 
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<!--  node image  --> 
+<!--  express image  --> 
   <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="nodejs" width="40" height="40"/>
 </a> 
-
+ 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <!--  mongodb mage  -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a> 
-
+  
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<!--  bootstrap image  --> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="nodejs" width="40" height="40"/>
+</a> 
+  
+ <a href="https://chakra-ui.com" target="_blank" rel="noreferrer"> 
+<!--  chakra UI image  --> 
+  <img src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" alt="nodejs" width="40" height="40"/>
+</a> 
+  
+ <a href="https://styled-components.com" target="_blank" rel="noreferrer"> 
+<!--  styled components image  --> 
+  <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="nodejs" width="40" height="40"/>
+</a> 
+  
 <a href="https://git-scm.com" target="_blank" rel="noreferrer">
   <!--  github image  -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
