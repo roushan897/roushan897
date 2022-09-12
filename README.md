@@ -71,21 +71,27 @@
 <!-- github-readme-streak-stats -->
 
 <!--   -->
-<a href="https://github.com/roushan897/github-readme-stats">
-    <img alt="roushan897's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roushan897&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a> 
+
+#
+<a href="https://github.com/roushan897/github-readme-stats"><img alt="roushan897's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roushan897&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+<a href="https://github.com/roushan897/github-readme-stats"><img alt="roushan897's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roushan897&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+#
+<a href="https://github.com/roushan897/github-readme-activity-graph"><img alt="roushan897's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roushan897&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 
 <!--  Connect with me  -->
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/roushan-gupta" target="blank">
-      <img width="40" height="30" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/roushan-gupta" />
-  </a>  
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=roushangupta85@gmail.com">
      <img width="50" height="50" align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2642/PNG/128/google_mail_gmail_logo_icon_159346.png" />
   </a>  
+  <a href="https://www.linkedin.com/in/roushan-gupta" target="blank">
+      <img width="40" height="30" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/roushan-gupta" />
+  </a>  
 </p>
 
-<!-- footer logo -->
+<!-- footer logo 
 <img align="center" width="100%" height="300" src="https://cdn.dribbble.com/users/1147279/screenshots/5055958/dbbble.gif" alt="water" />
+-->
