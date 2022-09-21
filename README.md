@@ -3,7 +3,7 @@
 
 <!-- hi gif -->
 <h1 align="center">Hi, <img  width="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" /> I'm Roushan Gupta</h1>
-<h3>A passionate MERN Developer, Dedicated to Develop robust web-application for both front-end and backend. A good expertise in website architecture, for User Interface. And Problem-solving mindset with eager to learn by doing.</h3>
+<h3>A dedicated MERN Developer who is committed to creating robust web applications for both the front-end and back-end. A good expertise in website architecture and user interface. and a problem-solving mindset with an eagerness to learn by doing.</h3>
 
 
 <!-- coding sticker -->
